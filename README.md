@@ -21,4 +21,4 @@ Recentemente, finalizei um bootcamp de Backend Java na plataforma Digital Innova
 
 ### Contato 📫
 
-Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato comigo através do [LinkedIn]([(https://www.linkedin.com/in/dennis-almeida-dsa/)]) ou [Email](dennisalmeida875@gmail.com).
+Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/dennis-almeida-dsa/) ou [Email](dennisalmeida875@gmail.com).
